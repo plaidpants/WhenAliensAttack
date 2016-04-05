@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c3af72b0351a95f40b21ebcaa95984df
+timeCreated: 1451614248
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BarrierPrefab: {fileID: 199328, guid: 082f71937d742a94d803699271d6505b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
