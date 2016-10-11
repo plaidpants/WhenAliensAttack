@@ -23,15 +23,15 @@ EditorBuildSettings:
     path: Assets/Scenes/BlueWorld.unity
   - enabled: 1
     path: Assets/Scenes/PurpleWorld.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Rings, 2 suns in sky.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Purple Titan in sky.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Purple cloudy moon, spiral galaxy.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Moons and Planet in sky.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Huge hurricane 100 km above.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Blue Terra, Nebula in sky.unity
