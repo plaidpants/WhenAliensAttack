@@ -2,11 +2,23 @@
 
 This is a alien shooter type game for the oculus platform, originally designed for the Gear VR.
 
-![screenshot](/../master/Screenshot0.png?raw=true) 
-
 ![screenshot](/../master/icon.png?raw=true) 
 
 I thought I would create a virtual reality game and this is what I chose to make. I had played the Oculus VR concepts "360° Space Invaders" by Tomas Mariancik and "Retro Invaders VR" by Ben Librojo and was inspired by these games as well as the original space shooter but was frustrated that neither is playable on current VR platforms so I decided to make something myself in the Unity game engine and the Oculus Unity SDK.
+
+I wanted to create the aliens with a flat pixel shape and have them break apart and litter the floor like "360° Space Invaders" as in this comment. I also wanted to give my aliens a sinister look and I found it in the cover art from the book Communion for the aliens pixel eyes.
+
+![screenshot](/../master/communion.jpg?raw=true) 
+
+Plus a little Cthulhu for the alien appendages.
+
+![screenshot](/../master/Cthulhu_sketch_by_Lovecraft+%28Custom%29.jpg?raw=true) 
+
+I also wanted to achieve a old B movie science fiction look to the game. The color scheme and title text from the movie "When Worlds Collide" movie posters seemed like a good choice for the colors and what the game title should look like.
+
+![screenshot](/../master/when_worlds_collide+%28Custom%29.jpg?raw=true) 
+
+The game is purposely devoid of much user interface, no score, no lives, etc. I didn't want the experience to be obscured or distracted by these things. Also the concept of lives and points really didn't seem to add anything to the experience either so I left them out on purpose. Not sure everyone will agree with my decision but I think it is something to think about applying to other virtual reality games. You can still lose the game however if you let the aliens get to close to the bottom and the game has a prize at the end so in this sense it is still a full game.
 
 ![screenshot](/../master/Screenshot1title.png?raw=true) 
 
