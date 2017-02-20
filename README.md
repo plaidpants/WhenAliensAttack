@@ -12,11 +12,11 @@ I wanted to create the aliens with a flat pixel shape and have them break apart 
 
 Plus a little Cthulhu for the alien appendages.
 
-![screenshot](/../master/Cthulhu_sketch_by_Lovecraft+%28Custom%29.jpg?raw=true) 
+![screenshot](/../master/Cthulhu_sketch_by_LovecraftCustom.jpg?raw=true) 
 
 I also wanted to achieve a old B movie science fiction look to the game. The color scheme and title text from the movie "When Worlds Collide" movie posters seemed like a good choice for the colors and what the game title should look like.
 
-![screenshot](/../master/when_worlds_collide+%28Custom%29.jpg?raw=true) 
+![screenshot](/../master/when_worlds_collideCustom.jpg?raw=true) 
 
 The game is purposely devoid of much user interface, no score, no lives, etc. I didn't want the experience to be obscured or distracted by these things. Also the concept of lives and points really didn't seem to add anything to the experience either so I left them out on purpose. Not sure everyone will agree with my decision but I think it is something to think about applying to other virtual reality games. You can still lose the game however if you let the aliens get to close to the bottom and the game has a prize at the end so in this sense it is still a full game.
 
