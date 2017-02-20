@@ -6,7 +6,7 @@ This is a alien shooter type game for the oculus platform, originally designed f
 
 I thought I would create a virtual reality game and this is what I chose to make. I had played the Oculus VR concepts "360° Space Invaders" by Tomas Mariancik and "Retro Invaders VR" by Ben Librojo and was inspired by these games as well as the original space shooter but was frustrated that neither is playable on current VR platforms so I decided to make something myself in the Unity game engine and the Oculus Unity SDK.
 
-I wanted to create the aliens with a flat pixel shape and have them break apart and litter the floor like "360° Space Invaders" as in this comment. I also wanted to give my aliens a sinister look and I found it in the cover art from the book Communion for the aliens pixel eyes.
+I wanted to create the aliens with a flat pixel shape and have them break apart and litter the floor like "360° Space Invaders" as in this comment https://forums.oculus.com/viewtopic.php?t=2109#p27028. I also wanted to give my aliens a sinister look and I found it in the cover art from the book Communion for the aliens pixel eyes.
 
 ![screenshot](/../master/communion.jpg?raw=true) 
 
@@ -39,29 +39,55 @@ The game makes use of creative commons licensed music from Clearside. Outer-spac
 This game is not licensed by Taito or publisher Square Enix, I did contact them but they did not provide permission for Oculus to publish.
 
 https://forums.oculus.com/viewtopic.php?t=2109
+
 http://www.frooxius.com/
+
 https://forums.oculus.com/viewtopic.php?t=3996
+
 http://www.vr-gameplay.com/
+
 http://unity3d.com/
+
 https://developer.oculus.com/downloads/game-engines/
+
 http://www.samsung.com/global/galaxy/wearables/gear-vr/
+
 https://www.google.com/get/cardboard/
+
 http://www.htcvive.com/
+
 http://opengameart.org/users/clearside
+
 http://blender.org/
+
 http://en.spaceengine.org/
+
 http://alexcpeterson.com/spacescape/
+
 https://www.assetstore.unity3d.com/en/#!/content/35818
+
 http://blacksun.doodlekit.com/home
+
 http://www.bfxr.net/
+
 http://www.bentristem.com/
+
 http://fractallambda.com/
+
 http://www.embraceitnottingham.co.uk/
+
 https://www.udemy.com/blendertutorial/
+
 https://www.udemy.com/unitycourse
+
 https://www.udemy.com/
+
 http://www.fontsquirrel.com/fonts/Green-Fuz
+
 http://www.larabiefonts.com/
+
 http://www.taito.com/
+
 http://na.square-enix.com/us/home
+
 http://na.square-enix.com/us/documents/licensing
