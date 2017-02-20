@@ -22,7 +22,7 @@ The game is purposely devoid of much user interface, no score, no lives, etc. I 
 
 ![screenshot](/../master/Screenshot1title.png?raw=true) 
 
-The game is made for the GearVR but the PC version with the DK2 (v0.8.0) also works well except for the cables getting tangled up when you spin around in your chair. I may port to Google Cardboard and HTC Vive if I get a chance. It doesn't really work well on a non-virtual reality system though.
+The game is made for the GearVR but the PC version also works well except for the cables getting tangled up when you spin around in your chair. I may port to other VR platforms if I get a chance. It doesn't really work well on a non-virtual reality system though.
 
 Please let me know what you think.
 
@@ -37,6 +37,8 @@ You can reset the view with the X button and move around a little bit with the B
 The game makes use of creative commons licensed music from Clearside. Outer-space images and models were created with Blender, Space Engine and Spacescape. Moon terrain courtesy of Black Sun. Sound effects generated with Bfxr. Special thanks to Ben Tristem, Brice Fernandes & Michael Bridges for their Blender and Unity courses on Udemy. The Laser Defender class section from the Unity course was very useful in making this demo. The title was created using the free font Green Fuz from Larabie Fonts.
 
 This game is not licensed by Taito or publisher Square Enix, I did contact them but they did not provide permission for Oculus to publish.
+
+Links
 
 https://forums.oculus.com/viewtopic.php?t=2109
 
