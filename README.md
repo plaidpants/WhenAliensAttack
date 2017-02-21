@@ -28,7 +28,7 @@ Please let me know what you think.
 
 ![screenshot](/../master/Screenshot0.png?raw=true) 
 
-The game was submitted to Oculus and accepted but they will not publish it without permission from Taito/Square Enix.
+The game was submitted to Oculus and accepted but they will not publish it on Oculus Home without permission from Taito/Square Enix. Probably due to the inclusion of Oculus Arcade on the GearVR.
 
 ![screenshot](/../master/Screenshot26playfield+circle+space.png?raw=true) 
 
