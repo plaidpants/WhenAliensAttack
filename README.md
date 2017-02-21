@@ -28,7 +28,7 @@ Please let me know what you think.
 
 ![screenshot](/../master/Screenshot0.png?raw=true) 
 
-The game was submitted to Oculus and accepted but they will not publish it on Oculus Home without permission from Taito/Square Enix. Probably due to the inclusion of Oculus Arcade on the GearVR.
+The game was submitted to Oculus and accepted but they will not publish it on Oculus Home without permission from Taito/Square Enix. Probably due to the inclusion of Oculus Arcade https://www.oculus.com/experiences/gear-vr/509618999185225/ on the GearVR and licensing agreements as gameplay mechanics are not copyrightable. https://en.wikipedia.org/wiki/Video_game_clone
 
 ![screenshot](/../master/Screenshot26playfield+circle+space.png?raw=true) 
 
