@@ -1,5 +1,7 @@
 # WhenAliensAttack
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/JnGAwude06g/0.jpg)](http://www.youtube.com/watch?v=JnGAwude06g "When Aliens Attack!")
+
 This is a alien shooter type game for the oculus platform, originally designed for the Gear VR.
 
 ![screenshot](/../master/icon.png?raw=true) 
