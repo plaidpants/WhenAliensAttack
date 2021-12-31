@@ -25,7 +25,7 @@ public class CameraScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.F12) || Input.GetButton("Fire3"))
         {
-            UnityEngine.VR.InputTracking.Recenter();
+            UnityEngine.XR.InputTracking.Recenter();
         }
 
         if (Input.GetKeyDown(KeyCode.F1))
@@ -42,14 +42,14 @@ public class CameraScript : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.F2))
         {
-            Application.CaptureScreenshot("Screenshot " + SceneManager.GetActiveScene().buildIndex + " " + i++ + ".png");
+            ScreenCapture.CaptureScreenshot("Screenshot " + SceneManager.GetActiveScene().buildIndex + " " + i++ + ".png");
             print("screenshot");
         }
 
 
         if (Input.GetKeyDown(KeyCode.F4))
         {
-            Application.CaptureScreenshot("Screenshot"+screenshot+ Application.loadedLevelName+".png", 2);
+            ScreenCapture.CaptureScreenshot("Screenshot"+screenshot+ Application.loadedLevelName+".png", 2);
             screenshot++;
         }
 

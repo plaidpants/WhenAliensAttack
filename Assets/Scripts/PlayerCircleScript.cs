@@ -43,7 +43,7 @@ public class PlayerCircleScript : MonoBehaviour {
         PlayerTracker.SetTrackingObject(gameObject);
 
         // start position where we are currently looking
-        Quaternion quaternion = InputTracking.GetLocalRotation(VRNode.CenterEye);
+        Quaternion quaternion = UnityEngine.XR.InputTracking.GetLocalRotation(UnityEngine.XR.XRNode.CenterEye);
 
         Vector3 euler = quaternion.eulerAngles;
 

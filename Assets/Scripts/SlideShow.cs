@@ -28,7 +28,7 @@ public class SlideShow : MonoBehaviour {
 
         if (Input.GetKeyDown(KeyCode.F12))
         {
-            UnityEngine.VR.InputTracking.Recenter();
+            UnityEngine.XR.InputTracking.Recenter();
         }
 
         if (Input.GetKeyDown(KeyCode.F1) || Input.GetButton("Fire1") || Input.GetButton("Submit"))
