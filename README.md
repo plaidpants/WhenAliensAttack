@@ -68,7 +68,7 @@ http://en.spaceengine.org/
 
 http://alexcpeterson.com/spacescape/
 
-https://www.assetstore.unity3d.com/en/#!/content/35818
+https://assetstore.unity.com/packages/3d/environments/landscapes/moon-landscape-35818
 
 http://blacksun.doodlekit.com/home
 
