@@ -6,7 +6,7 @@ This is a alien shooter type game for the oculus platform, originally designed f
 
 ![screenshot](/../master/icon.png?raw=true) 
 
-I thought I would create a virtual reality game and this is what I chose to make. I had played the Oculus VR concepts "360° Space Invaders" by Tomas Mariancik and "Retro Invaders VR" by Ben Librojo and was inspired by these games as well as the original space shooter but was frustrated that neither is playable on current VR platforms so I decided to make something myself in the Unity game engine and the Oculus Unity SDK.
+I thought I would create a virtual reality game and this is what I chose to make. I had played the Oculus VR concepts "360° Space Invaders" by Tomas Mariancik (https://www.youtube.com/watch?v=eGIlrsz9i20) and "Retro Invaders VR" by Ben Librojo (https://www.youtube.com/watch?v=XoT9Dzav6V4) and was inspired by these games as well as the original space shooter but was frustrated that neither is playable on current VR platforms so I decided to make something myself in the Unity game engine and the Oculus Unity SDK.
 
 I wanted to create the aliens with a flat pixel shape and have them break apart and litter the floor like "360° Space Invaders" as in this comment https://forums.oculus.com/viewtopic.php?t=2109#p27028. I also wanted to give my aliens a sinister look and I found it in the cover art from the book Communion for the aliens pixel eyes.
 
