@@ -11,7 +11,7 @@ public class StartGame : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetButton("Fire1") || Input.GetButton("Submit"))
+        if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Submit"))
         {
             SceneManager.LoadScene(2);
         }

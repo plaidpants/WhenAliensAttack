@@ -23,7 +23,7 @@ public class CameraScript : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.F12) || Input.GetButton("Fire3"))
+        if (Input.GetKeyDown(KeyCode.F12) || Input.GetButtonDown("Fire3"))
         {
             UnityEngine.XR.InputTracking.Recenter();
         }

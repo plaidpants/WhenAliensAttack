@@ -15,7 +15,7 @@ public class LoseGame : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
     {
-        if (Input.GetButton("Fire1") || Input.GetButton("Submit") || (loseAudio.isPlaying == false))
+        if (Input.GetButtonDown("Fire1") || Input.GetButtonDown("Submit") || (loseAudio.isPlaying == false))
         {
             SceneManager.LoadScene(0);
         }
