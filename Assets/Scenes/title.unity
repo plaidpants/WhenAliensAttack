@@ -133,6 +133,18 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11410982, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: m_ScaleFactor
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: xoffset
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: yoffset
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 22346776, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
       propertyPath: m_Camera
       value: 
@@ -671,6 +683,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 21868970, guid: 21a2dff3d3253a24995d56ed2adc392d, type: 3}
+      propertyPath: m_HeightmapPixelError
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21a2dff3d3253a24995d56ed2adc392d, type: 3}
 --- !u!1 &975159189
@@ -1072,7 +1088,7 @@ Transform:
   m_Children:
   - {fileID: 1661725974}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1492707683
 MonoBehaviour:

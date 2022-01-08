@@ -31,7 +31,7 @@ public class SlideShow : MonoBehaviour {
             UnityEngine.XR.InputTracking.Recenter();
         }
 
-        if (Input.GetKeyDown(KeyCode.F1) || Input.GetButton("Fire1") || Input.GetButton("Submit"))
+        if (Input.GetKeyDown(KeyCode.F1) || Input.GetButtonDown("Fire1") || Input.GetButtonDown("Submit"))
         {
             if (SceneManager.GetActiveScene().buildIndex < SceneManager.sceneCountInBuildSettings - 1)
             {

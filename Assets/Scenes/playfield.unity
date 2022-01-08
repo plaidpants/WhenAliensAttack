@@ -657,6 +657,10 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 21868970, guid: 21a2dff3d3253a24995d56ed2adc392d, type: 3}
+      propertyPath: m_HeightmapPixelError
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 21a2dff3d3253a24995d56ed2adc392d, type: 3}
 --- !u!1001 &1093752843
@@ -1095,6 +1099,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11410982, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: m_ScaleFactor
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: xoffset
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: yoffset
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 22346776, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
       propertyPath: m_Camera
       value: 

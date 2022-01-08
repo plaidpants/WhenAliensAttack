@@ -770,6 +770,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11410982, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: m_ScaleFactor
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: xoffset
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 11447562, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: yoffset
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 22346776, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1661725973}
     - target: {fileID: 22460594, guid: cd76af3f171e35741b85d90bbf8e923c, type: 3}
       propertyPath: m_Pivot.x
       value: 0

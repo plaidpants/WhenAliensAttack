@@ -55,23 +55,8 @@ public class PlayerTracker : MonoBehaviour
                 screenpos = new Vector3(Screen.width / 2, Screen.height / 2, screenpos.z);
                 tarAngle = tarAngle - 180;
             }
-
-            if (screenpos.x > Screen.width - Screen.width * xoffset)
-            {
-                screenpos.x = Screen.width - Screen.width * xoffset;
-            }
-            else if (screenpos.x < Screen.width * xoffset)
-            {
-                screenpos.x = Screen.width * xoffset;
-            }
-            if (screenpos.y > Screen.height - Screen.height * yoffset)
-            {
-                screenpos.y = Screen.height - Screen.height * yoffset;
-            }
-            else if (screenpos.y < Screen.height * yoffset)
-            {
-                screenpos.y = Screen.height * yoffset;
-            }
+            screenpos.x = Screen.width * xoffset;
+            screenpos.y = Screen.height * yoffset;
 
             RectTransformUtility.ScreenPointToWorldPointInRectangle(screenCanvas.GetComponent<RectTransform>(), screenpos, Camera.main, out screenpos);
 
