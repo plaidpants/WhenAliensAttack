@@ -30,15 +30,13 @@ Please let me know what you think.
 
 ![screenshot](/../master/Screenshot0.png?raw=true) 
 
-The game was submitted to Oculus and accepted but they will not publish it on Oculus Home without permission from Taito/Square Enix. Probably due to the inclusion of Oculus Arcade https://www.oculus.com/experiences/gear-vr/509618999185225/ on the GearVR and licensing agreements as gameplay mechanics are not copyrightable. https://en.wikipedia.org/wiki/Video_game_clone
-
 ![screenshot](/../master/Screenshot26playfield+circle+space.png?raw=true) 
 
 You can reset the view with the X button and move around a little bit with the B button. I also implement some rudimentary controls with the touch-pad on the side of the GearVR but it really doesn't seem to work that well but at least you can try the game out if you don't have a game-pad handy.
 
 The game makes use of creative commons licensed music from Clearside. Outer-space images and models were created with Blender, Space Engine and Spacescape. Moon terrain courtesy of Black Sun. Sound effects generated with Bfxr. Special thanks to Ben Tristem, Brice Fernandes & Michael Bridges for their Blender and Unity courses on Udemy. The Laser Defender class section from the Unity course was very useful in making this demo. The title was created using the free font Green Fuz from Larabie Fonts.
 
-This game is not licensed by Taito or publisher Square Enix, I did contact them but they did not provide permission for Oculus to publish.
+This game is not licensed by Taito or publisher Square Enix, gameplay mechanics are not copyrightable. https://en.wikipedia.org/wiki/Video_game_clone
 
 Links
 
