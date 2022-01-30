@@ -73,6 +73,7 @@ public class MyMouseLook : MonoBehaviour
         // Make the rigid body not change rotation
         originalRotation = transform.localRotation;
 #endif
+        Cursor.visible = false;
     }
 
 #if !UNITY_ANDROID || UNITY_EDITOR
