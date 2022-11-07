@@ -44,15 +44,15 @@ RenderSettings:
 LightmapSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 11
-  m_GIWorkflowMode: 0
+  m_GIWorkflowMode: 1
   m_GISettings:
     serializedVersion: 2
     m_BounceScale: 1
     m_IndirectOutputScale: 1
     m_AlbedoBoost: 1
     m_EnvironmentLightingMode: 0
-    m_EnableBakedLightmaps: 1
-    m_EnableRealtimeLightmaps: 1
+    m_EnableBakedLightmaps: 0
+    m_EnableRealtimeLightmaps: 0
   m_LightmapEditorSettings:
     serializedVersion: 12
     m_Resolution: 2
@@ -1309,7 +1309,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2afcf575f4a68de4db434c7b7233c451, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shortPressHandler: 0
 --- !u!1001 &1971464004
 PrefabInstance:
   m_ObjectHideFlags: 0

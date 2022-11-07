@@ -57,7 +57,7 @@ public class Player : MonoBehaviour {
     {
         if (((Input.GetAxis("Horizontal") < -deadzone)
 #if UNITY_ANDROID && !UNITY_EDITOR
-           || (Input.mousePosition.x  < Screen.width / 2 - Screen.width* mousedeadzone)
+//           || (Input.mousePosition.x  < Screen.width / 2 - Screen.width * mousedeadzone)
 #endif
             )
             && (transform.position.x > min))
@@ -69,7 +69,7 @@ public class Player : MonoBehaviour {
 		}
 		else if (((Input.GetAxis("Horizontal") > deadzone)
 #if UNITY_ANDROID && !UNITY_EDITOR
-            || (Input.mousePosition.x > Screen.width / 2 + Screen.width*mousedeadzone)
+//            || (Input.mousePosition.x > Screen.width / 2 + Screen.width*mousedeadzone)
 #endif
             )
             && (transform.position.x < max))
